@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="published">Published at:\u0020</string>
+    <string name="separator0">T</string>
+    <string name="separator1">Z</string>
+    <string name="separator2">in</string>
+    <string name="section">In section:\u0020</string>
+    <string name="written">\u0020written by:\u0020</string>
+</resources>
